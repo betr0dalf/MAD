@@ -1,4 +1,4 @@
 # MAD
 Data analysis methods 5th semester
 
-Методы Анализа Данных
+Методы Анализа Данных (МАД)
